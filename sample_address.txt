@@ -1,0 +1,100 @@
+Delhi|Indian Oil, Pitampura, Delhi 110034, India
+Delhi|Hindustan Petroleum, Mall Road, Block J, Shakurpur, Delhi 110034, India
+Delhi|Hindustan Petroleum, Mall Road, Block J, Shakurpur, Delhi 110034, India
+Delhi|Vidya Sagar Gas Agency, A-16, Pitampura Village, Pitampura, Delhi 110034, India
+Delhi|Hindustan Petroleum, महाराजा अग्रसेन मार्ग, Poorvi Pitampura-Block KP, Pitampura, Delhi 110034, India
+Delhi|HP Petrol Pump, Netaji Subhash Place, Pitampura, Delhi 110034, India
+Delhi|Igl Indraprastha Gas Limited, Service Road, Block E, Shakurpur, Delhi 110034, India
+Delhi|Rohini Filling Station, Sector 8, Rohini, Delhi 110085, India
+Delhi|Bharat Petroleum, A-2/484, Sector 8, Rohini, Delhi 110085, India
+Delhi|Hindustan Petroleum, Service Road, Wazirpur Indl Area, Delhi 110035, India
+Mumbai|CNG Station, Lal Bahadur Shastri Marg, Kismat Nagar, Kurla West, Mumbai 400070, India
+Mumbai|Hindustan Petroleum, Juna Agra Road, Kurla West, Mumbai 400070, India
+Mumbai|Madhav Indian Oil, Juna Agra Road, Kurla West, Mumbai 400070, India
+Mumbai|Hindustan Petroleum, Lal Bahadur Shastri Marg, Kurla West, Mumbai 400070, India
+Mumbai|Bharat Petroleum, Bandra Kurla Complex Road, Bandra East, Mumbai 400051, India
+Mumbai|Hindustan Petroleum, Late Shree Poly Felix Britto Chowk, Old Kurla, Kurla West, Mumbai 400070, India
+Mumbai|Bharat petrol pump, L. B. S. Marg, Kurla West, Mumbai 400070, India
+Mumbai|Indian Oil BKC Pump, 609 Bandra Kurla Complex Road, Bandra Kurla Complex, Bandra East, Mumbai 400051, India
+Mumbai|Laxmi Gas Service, S G Barve Marg, Nehru Nagar, Kurla East, Mumbai 400024, India
+Mumbai|Mahanagar Gas, Bandra Kurla Complex Road, Bandra Kurla Complex, Bandra East, Mumbai 400051, India
+Pune|Mangala Petrol Pump, Shivaji Road, Juna Tofkhana, Shivaji Nagar, Pune 411005, India
+Pune|HP Petrol Pump, Justice Ranade Path, Juna Tofkhana, Shivaji Nagar, Pune 411005, India
+Pune|Bharat Petroleum Petrol Pump, Shivaji Nagar, Pune 411005, India
+Pune|Quick Auto Works, Rasta Peth, Pune 411011, India
+Pune|Indian Oil, Mangalwar Peth, Pune 411011, India
+Pune|Indian Oil, DR. Rajendra Prasad Road, Revenue Colony, Shivaji Nagar, Pune 411005, India
+Pune|HP Petrol Pump, 209 DR Babasaheb Ambedkar Path, Mangalwar Peth, Pune 411011, India
+Pune|Super Gas, Late Raghunath Dinaji Pawar Path, Rasta Peth, Pune 411011, India
+Pune|Indian Oil Petrol Pump, DR Babasaheb Ambedkar Path, Pune Station, Pune 411001, India
+Pune|Indian Oil, Revenue Colony, Shivaji Nagar, Pune 411005, India
+Bengaluru|Shell, 506, Ashoka Nagar, Bengaluru 560001, India
+Bengaluru|Hindustan Petroleum, Kasturba Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru 560001, India
+Bengaluru|Indian Oil, Lavelle Road, Ashoka Nagar, Bengaluru 560001, India
+Bengaluru|India Garage, Ashoka Nagar, Bengaluru 560001, India
+Bengaluru|HP Petrol Pump, Corporation Circle, Sampangi Rama Nagar, Bengaluru 560027, India
+Bengaluru|Indian Oil, Shivajinagar, Bengaluru 560001, India
+Bengaluru|Nrupathunga Service Station, Nrupathunga Road, Sampangi Rama Nagar, Bengaluru 560027, India
+Bengaluru|Bharat Petroleum Petrol Pump, Kengal Hanumanthaiah Road, Srinivas Colony, Sudhamanagar, Bengaluru 560027, India
+Bengaluru|Bharat Petroleum, Ashok Nagar, Bengaluru 560025, India
+Bengaluru|Hindustan Petroleum, Shivajinagar, Bengaluru 560001, India
+Chennai|Bharat Petroleum Petrol Pump, Periyar E. V. R. Road, Periamet, Chennai 600003, India
+Chennai|Hindustan Petroleum, Vepery, Chennai 600007, India
+Chennai|Hindustan Petroleum, Vepery, Chennai 600007, India
+Chennai|Indian Oil, Evening Bazar Road, Evening Bazaar, Park Town, Chennai 600003, India
+Chennai|Deeka Enterprises Petrol, Panthaon Road, Egmore, Chennai 600008, India
+Chennai|Check And Fill Indian Oil Agencies, Egmore, Chennai 600008, India
+Chennai|HP Petrol Pump, Kannappar Thidal, Periamet, Chennai 600003, India
+Chennai|Petrol Pump Vijayalkshmi Agency, Sampath Road, Vepery, Chennai 600007, India
+Chennai|Indian Oil Petrol Pump, Vepery, Chennai 600007, India
+Chennai|BHARAT PETROLEUM, Egmore, Chennai 600008, India
+Chandigarh|Gurdial Singh Sons, Block A, Sector 22, Chandigarh 160022, India
+Chandigarh|Kay Tee Service Statio, Sector 17 Road, Block E, Sector 17, Chandigarh 160017, India
+Chandigarh|Hindustan Petroleum, Sector 22 Road, Block B, Sector 22, Chandigarh 160022, India
+Chandigarh|BPCL, Sector 17 Road, Block E, Sector 17, Chandigarh 160017, India
+Chandigarh|Petrol Pump, Block A, Sector 22, Chandigarh 160022, India
+Chandigarh|Kapur Service Station, Service Road, Block D, Sector 21, Chandigarh 160022, India
+Chandigarh|Bharat Petroleum, Service Road, Block C, Sector 22, Chandigarh 160022, India
+Chandigarh|Auto LPG Pump, Block C, Sector 21, Chandigarh 160022, India
+Chandigarh|Hindustan Petroleum, Block B, Sector 17, Chandigarh 160017, India
+Chandigarh|Bharat Petroleum, Block C, Sector 21, Chandigarh 160022, India
+Kolkata|HP GAS, Raja Ram Mohan Roy Sarani, Amherst Street, College Street, Kolkata 700012, India
+Kolkata|HP Petrol Pump, 21-A, Tiretti, Kolkata 700073, India
+Kolkata|Bharat Petroleum Petrol Pump, Amherst Street, Amherst Street, College Street, Kolkata 700009, India
+Kolkata|Indian Oil, Jadunath Dey Road, Central, Bow Bazar, Kolkata 700012, India
+Kolkata|Bharat Petroleum, Baithakkhana-Mirzapur Pally, Sealdah, Kolkata 700012, India
+Kolkata|Prova service station, Baithakkhana-Mirzapur Pally, Sealdah, Kolkata 700012, India
+Kolkata|Bharat Petroleum, Tarachand Dutta Street, Colootala, Kolkata 700073, India
+Kolkata|Bose Service Station, Acharya Prafulla Chandra Road, Rajabazar, Kolkata 700009, India
+Kolkata|Hindustan Petroleum, Jorasanko, Kolkata 700007, India
+Kolkata|Bharat Petroleum, Bentinck Street, Bow Barracks, Bow Bazar, Kolkata 700072, India
+Raipur|Balaji Fuels, Subhash Road, Mangra Para, Raipur H O, Raipur 492001, India
+Raipur|Hindustan Petroleum, Station Road, New Kaling Nagar, Gudhiyari, Raipur 492009, India
+Raipur|Bharat Petroleum, Station Road, Nahar Para, Raipur H O, Raipur 492009, India
+Raipur|BP, Station Road, Nahar Para, Raipur H O, Raipur 492009, India
+Raipur|Indian Oil, 39 Jail Road, Fafadih Chowk, Fafadih, Raipur 492009, India
+Raipur|BP, G E Road, Bombey Market, Modha Para, Raipur 492001, India
+Raipur|Indian Oil, G E Road, Modha Para, Raipur 492001, India
+Raipur|Hindustan Petroleum, G E Road, Shastri Chowk, Raipur H O, Raipur 492001, India
+Raipur|Rajguru agency, Kamsi Para, Raipur H O, Raipur 492001, India
+Raipur|BPCL F.R.Fuels, M G Road, Choubey Colony, Chirhuldih, Raipur 492001, India
+Jodhapur|Bharat Petroleum Petrol Pump, Pali Road, Saraswati Nagar, Basni, Jodhpur 342005, India
+Jodhapur|Hindustan Petroleum, Madhuban Housing Board Road, Sector 1-Block Cha, Basni, Jodhpur 342005, India
+Jodhapur|Bharat Petroleum Petrol Pump, Service Road, Marudhara Industrial Area Phase 2, Basni, Jodhpur 342005, India
+Jodhapur|HP Petrol Pump, Bhagat Ki Kothi Wistar Yojana, Jodhpur 342008, India
+Jodhapur|Indian Oil Petrol Pump, Bhagat Ki Kothi Wistar Yojana, Jodhpur 342008, India
+Jodhapur|Bharat Petroleum, Prithviraj Nagar, Jhalamand, Jodhpur 342005, India
+Jodhapur|Indian Oil, Basni, Jodhpur 342005, India
+Jodhapur|Hindustan Petroleum, Jhalamand, Jodhpur 342005, India
+Jodhapur|Bharat Petroleum Petrol Pump, Jhalamand, Jodhpur 342005, India
+Jodhapur|Indian Oil, एनएच-62, Ratanada Extension, Ratanada, Jodhpur 342001, India
+Hyderabad|M/S. Hitech Fuel Station, Reliance Digitals Lane, Kutbiguda, Kachiguda, Hyderabad 500027, India
+Hyderabad|Indian Gas Company, NH-65, Koti, Hyderabad 500027, India
+Hyderabad|Indian Oil, Rangmahal Road, Gowliguda, Hyderabad 500012, India
+Hyderabad|HP Petrol Pump, 3 Maharani Jhansi Road, Hanuman Tekdi, Abids, Hyderabad 500001, India
+Hyderabad|Indane Gas Agency, 5-1-513 Mumbai Highway, Hanuman Tekdi, Abids, Hyderabad 500001, India
+Hyderabad|HP Petrol Pump, Kachiguda Railway Station Road, Lingampally, Kachiguda, Hyderabad 500027, India
+Hyderabad|HP Petrol Pump, 3-1-293, Nimboliadda, Kachiguda, Hyderabad 500027, India
+Hyderabad|Prime Fuel, 3-2-687, Kutbiguda, Kachiguda, Hyderabad 500027, India
+Hyderabad|Deccan Petroleums, Gowliguda, Hyderabad 500012, India
+Hyderabad|Bharat Petroleum, Darul Shifa Road, Gowliguda, Hyderabad 500012, India

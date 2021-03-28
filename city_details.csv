@@ -1,0 +1,101 @@
+,address,city,accuracy,resultType,lat,lng,countryCode,stateCode,postalCode
+0,"Delhi|Indian Oil, Pitampura, Delhi 110034, India",Delhi,100.0,locality,28.6959,77.13725,IND,DL,110034
+1,"Delhi|Hindustan Petroleum, Mall Road, Block J, Shakurpur, Delhi 110034, India",Delhi,100.0,place,28.69189,77.14671,IND,DL,110034
+2,"Delhi|Hindustan Petroleum, Mall Road, Block J, Shakurpur, Delhi 110034, India",Delhi,100.0,place,28.69189,77.14671,IND,DL,110034
+3,"Delhi|Vidya Sagar Gas Agency, A-16, Pitampura Village, Pitampura, Delhi 110034, India",Delhi,100.0,place,28.7,77.12783,IND,DL,110034
+4,"Delhi|Hindustan Petroleum, महाराजा अग्रसेन मार्ग, Poorvi Pitampura-Block KP, Pitampura, Delhi 110034, India",Delhi,98.57,place,28.70505,77.14088,IND,DL,110034
+5,"Delhi|HP Petrol Pump, Netaji Subhash Place, Pitampura, Delhi 110034, India",Delhi,100.0,place,28.69636,77.1554,IND,DL,110034
+6,"Delhi|Igl Indraprastha Gas Limited, Service Road, Block E, Shakurpur, Delhi 110034, India",Delhi,100.0,place,28.68474,77.14823,IND,DL,110034
+7,"Delhi|Rohini Filling Station, Sector 8, Rohini, Delhi 110085, India",Delhi,100.0,locality,28.70255,77.12177,IND,DL,110085
+8,"Delhi|Bharat Petroleum, A-2/484, Sector 8, Rohini, Delhi 110085, India",Delhi,100.0,houseNumber,28.70176,77.12137,IND,DL,110085
+9,"Delhi|Hindustan Petroleum, Service Road, Wazirpur Indl Area, Delhi 110035, India",Delhi,100.0,place,28.69045,77.15361,IND,DL,110035
+10,"Mumbai|CNG Station, Lal Bahadur Shastri Marg, Kismat Nagar, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.07619,72.87751,IND,MH,400070
+11,"Mumbai|Hindustan Petroleum, Juna Agra Road, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.07821,72.87925,IND,MH,400070
+12,"Mumbai|Madhav Indian Oil, Juna Agra Road, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.07021,72.87527,IND,MH,400070
+13,"Mumbai|Hindustan Petroleum, Lal Bahadur Shastri Marg, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.0655,72.87472,IND,MH,400070
+14,"Mumbai|Bharat Petroleum, Bandra Kurla Complex Road, Bandra East, Mumbai 400051, India",Mumbai,100.0,street,19.06188,72.86056,IND,MH,400051
+15,"Mumbai|Hindustan Petroleum, Late Shree Poly Felix Britto Chowk, Old Kurla, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.08474,72.88514,IND,MH,400070
+16,"Mumbai|Bharat petrol pump, L. B. S. Marg, Kurla West, Mumbai 400070, India",Mumbai,100.0,place,19.08512,72.88656,IND,MH,400070
+17,"Mumbai|Indian Oil BKC Pump, 609 Bandra Kurla Complex Road, Bandra Kurla Complex, Bandra East, Mumbai 400051, India",Mumbai,100.0,place,19.06707,72.86671,IND,MH,400051
+18,"Mumbai|Laxmi Gas Service, S G Barve Marg, Nehru Nagar, Kurla East, Mumbai 400024, India",Mumbai,100.0,place,19.063,72.88271,IND,MH,400024
+19,"Mumbai|Mahanagar Gas, Bandra Kurla Complex Road, Bandra Kurla Complex, Bandra East, Mumbai 400051, India",Mumbai,84.29,intersection,19.06514,72.86226,IND,MH,400051
+20,"Pune|Mangala Petrol Pump, Shivaji Road, Juna Tofkhana, Shivaji Nagar, Pune 411005, India",Pune,100.0,place,18.52519,73.85353,IND,MH,411005
+21,"Pune|HP Petrol Pump, Justice Ranade Path, Juna Tofkhana, Shivaji Nagar, Pune 411005, India",Pune,100.0,place,18.5261,73.8538,IND,MH,411005
+22,"Pune|Bharat Petroleum Petrol Pump, Shivaji Nagar, Pune 411005, India",Pune,100.0,place,18.52666,73.85091,IND,MH,411005
+23,"Pune|Quick Auto Works, Rasta Peth, Pune 411011, India",Pune,100.0,place,18.517,73.86517,IND,MH,411011
+24,"Pune|Indian Oil, Mangalwar Peth, Pune 411011, India",Pune,100.0,place,18.52266,73.86665,IND,MH,411011
+25,"Pune|Indian Oil, DR. Rajendra Prasad Road, Revenue Colony, Shivaji Nagar, Pune 411005, India",Pune,100.0,place,18.52813,73.85026,IND,MH,411005
+26,"Pune|HP Petrol Pump, 209 DR Babasaheb Ambedkar Path, Mangalwar Peth, Pune 411011, India",Pune,100.0,place,18.52685,73.86466,IND,MH,411011
+27,"Pune|Super Gas, Late Raghunath Dinaji Pawar Path, Rasta Peth, Pune 411011, India",Pune,100.0,place,18.5168,73.8665,IND,MH,411011
+28,"Pune|Indian Oil Petrol Pump, DR Babasaheb Ambedkar Path, Pune Station, Pune 411001, India",Pune,100.0,place,18.52658,73.86559,IND,MH,411001
+29,"Pune|Indian Oil, Revenue Colony, Shivaji Nagar, Pune 411005, India",Pune,100.0,place,18.52813,73.85026,IND,MH,411005
+30,"Bengaluru|Shell, 506, Ashoka Nagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.97132,77.59699,IND,KA,560001
+31,"Bengaluru|Hindustan Petroleum, Kasturba Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.97577,77.59791,IND,KA,560001
+32,"Bengaluru|Indian Oil, Lavelle Road, Ashoka Nagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.96617,77.59533,IND,KA,560001
+33,"Bengaluru|India Garage, Ashoka Nagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.97624,77.59861,IND,KA,560001
+34,"Bengaluru|HP Petrol Pump, Corporation Circle, Sampangi Rama Nagar, Bengaluru 560027, India",Bengaluru,100.0,place,12.9677,77.58842,IND,KA,560027
+35,"Bengaluru|Indian Oil, Shivajinagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.97498,77.60139,IND,KA,560001
+36,"Bengaluru|Nrupathunga Service Station, Nrupathunga Road, Sampangi Rama Nagar, Bengaluru 560027, India",Bengaluru,100.0,place,12.97214,77.58666,IND,KA,560027
+37,"Bengaluru|Bharat Petroleum Petrol Pump, Kengal Hanumanthaiah Road, Srinivas Colony, Sudhamanagar, Bengaluru 560027, India",Bengaluru,100.0,place,12.96198,77.59434,IND,KA,560027
+38,"Bengaluru|Bharat Petroleum, Ashok Nagar, Bengaluru 560025, India",Bengaluru,100.0,place,12.97366,77.61388,IND,KA,560025
+39,"Bengaluru|Hindustan Petroleum, Shivajinagar, Bengaluru 560001, India",Bengaluru,100.0,place,12.98209,77.59407,IND,KA,560001
+40,"Chennai|Bharat Petroleum Petrol Pump, Periyar E. V. R. Road, Periamet, Chennai 600003, India",Chennai,100.0,place,13.08073,80.26666,IND,TN,600003
+41,"Chennai|Hindustan Petroleum, Vepery, Chennai 600007, India",Chennai,100.0,place,13.08604,80.2646,IND,TN,600007
+42,"Chennai|Hindustan Petroleum, Vepery, Chennai 600007, India",Chennai,100.0,place,13.08604,80.2646,IND,TN,600007
+43,"Chennai|Indian Oil, Evening Bazar Road, Evening Bazaar, Park Town, Chennai 600003, India",Chennai,100.0,place,13.08349,80.27902,IND,TN,600003
+44,"Chennai|Deeka Enterprises Petrol, Panthaon Road, Egmore, Chennai 600008, India",Chennai,100.0,place,13.07615,80.26483,IND,TN,600008
+45,"Chennai|Check And Fill Indian Oil Agencies, Egmore, Chennai 600008, India",Chennai,100.0,place,13.07575,80.26424,IND,TN,600008
+46,"Chennai|HP Petrol Pump, Kannappar Thidal, Periamet, Chennai 600003, India",Chennai,100.0,place,13.09209,80.26966,IND,TN,600003
+47,"Chennai|Petrol Pump Vijayalkshmi Agency, Sampath Road, Vepery, Chennai 600007, India",Chennai,100.0,place,13.08651,80.26091,IND,TN,600007
+48,"Chennai|Indian Oil Petrol Pump, Vepery, Chennai 600007, India",Chennai,100.0,place,13.0864,80.26084,IND,TN,600007
+49,"Chennai|BHARAT PETROLEUM, Egmore, Chennai 600008, India",Chennai,100.0,place,13.07615,80.26483,IND,TN,600008
+50,"Chandigarh|Gurdial Singh Sons, Block A, Sector 22, Chandigarh 160022, India",Chandigarh,100.0,place,30.73684,76.77621,IND,CH,160022
+51,"Chandigarh|Kay Tee Service Statio, Sector 17 Road, Block E, Sector 17, Chandigarh 160017, India",Chandigarh,100.0,place,30.73814,76.78139,IND,CH,160017
+52,"Chandigarh|Hindustan Petroleum, Sector 22 Road, Block B, Sector 22, Chandigarh 160022, India",Chandigarh,100.0,street,30.73101,76.77325,IND,CH,160022
+53,"Chandigarh|BPCL, Sector 17 Road, Block E, Sector 17, Chandigarh 160017, India",Chandigarh,97.17,street,30.7425,76.78142,IND,CH,160017
+54,"Chandigarh|Petrol Pump, Block A, Sector 22, Chandigarh 160022, India",Chandigarh,100.0,place,30.73858,76.77465,IND,CH,160022
+55,"Chandigarh|Kapur Service Station, Service Road, Block D, Sector 21, Chandigarh 160022, India",Chandigarh,100.0,place,30.72413,76.77053,IND,CH,160022
+56,"Chandigarh|Bharat Petroleum, Service Road, Block C, Sector 22, Chandigarh 160022, India",Chandigarh,100.0,place,30.72921,76.76628,IND,CH,160022
+57,"Chandigarh|Auto LPG Pump, Block C, Sector 21, Chandigarh 160022, India",Chandigarh,100.0,place,30.72318,76.77158,IND,CH,160022
+58,"Chandigarh|Hindustan Petroleum, Block B, Sector 17, Chandigarh 160017, India",Chandigarh,94.6,street,30.7425,76.78142,IND,CH,160017
+59,"Chandigarh|Bharat Petroleum, Block C, Sector 21, Chandigarh 160022, India",Chandigarh,100.0,place,30.72308,76.77161,IND,CH,160022
+60,"Kolkata|HP GAS, Raja Ram Mohan Roy Sarani, Amherst Street, College Street, Kolkata 700012, India",Kolkata,100.0,place,22.57417,88.36742,IND,WB,700012
+61,"Kolkata|HP Petrol Pump, 21-A, Tiretti, Kolkata 700073, India",Kolkata,100.0,place,22.57277,88.35819,IND,WB,700073
+62,"Kolkata|Bharat Petroleum Petrol Pump, Amherst Street, Amherst Street, College Street, Kolkata 700009, India",Kolkata,100.0,place,22.57651,88.36865,IND,WB,700009
+63,"Kolkata|Indian Oil, Jadunath Dey Road, Central, Bow Bazar, Kolkata 700012, India",Kolkata,100.0,place,22.56839,88.35841,IND,WB,700012
+64,"Kolkata|Bharat Petroleum, Baithakkhana-Mirzapur Pally, Sealdah, Kolkata 700012, India",Kolkata,100.0,place,22.57139,88.37131,IND,WB,700012
+65,"Kolkata|Prova service station, Baithakkhana-Mirzapur Pally, Sealdah, Kolkata 700012, India",Kolkata,100.0,place,22.57141,88.37137,IND,WB,700012
+66,"Kolkata|Bharat Petroleum, Tarachand Dutta Street, Colootala, Kolkata 700073, India",Kolkata,100.0,place,22.57857,88.35677,IND,WB,700073
+67,"Kolkata|Bose Service Station, Acharya Prafulla Chandra Road, Rajabazar, Kolkata 700009, India",Kolkata,100.0,place,22.57588,88.37334,IND,WB,700009
+68,"Kolkata|Hindustan Petroleum, Jorasanko, Kolkata 700007, India",Kolkata,100.0,place,22.58021,88.35712,IND,WB,700007
+69,"Kolkata|Bharat Petroleum, Bentinck Street, Bow Barracks, Bow Bazar, Kolkata 700072, India",Kolkata,100.0,place,22.56949,88.35336,IND,WB,700072
+70,"Raipur|Balaji Fuels, Subhash Road, Mangra Para, Raipur H O, Raipur 492001, India",Raipur,100.0,place,21.24823,81.63091,IND,CT,492001
+71,"Raipur|Hindustan Petroleum, Station Road, New Kaling Nagar, Gudhiyari, Raipur 492009, India",Raipur,100.0,place,21.25719,81.6249,IND,CT,492009
+72,"Raipur|Bharat Petroleum, Station Road, Nahar Para, Raipur H O, Raipur 492009, India",Raipur,100.0,place,21.25658,81.63577,IND,CT,492009
+73,"Raipur|BP, Station Road, Nahar Para, Raipur H O, Raipur 492009, India",Raipur,100.0,place,21.25661,81.63575,IND,CT,492009
+74,"Raipur|Indian Oil, 39 Jail Road, Fafadih Chowk, Fafadih, Raipur 492009, India",Raipur,100.0,place,21.25665,81.63639,IND,CT,492009
+75,"Raipur|BP, G E Road, Bombey Market, Modha Para, Raipur 492001, India",Raipur,100.0,place,21.24387,81.63616,IND,CT,492001
+76,"Raipur|Indian Oil, G E Road, Modha Para, Raipur 492001, India",Raipur,100.0,place,21.24514,81.6384,IND,CT,492001
+77,"Raipur|Hindustan Petroleum, G E Road, Shastri Chowk, Raipur H O, Raipur 492001, India",Raipur,100.0,place,21.24552,81.64049,IND,CT,492001
+78,"Raipur|Rajguru agency, Kamsi Para, Raipur H O, Raipur 492001, India",Raipur,100.0,place,21.23947,81.63238,IND,CT,492001
+79,"Raipur|BPCL F.R.Fuels, M G Road, Choubey Colony, Chirhuldih, Raipur 492001, India",Raipur,100.0,place,21.24286,81.61484,IND,CT,492001
+80,"Jodhapur|Bharat Petroleum Petrol Pump, Pali Road, Saraswati Nagar, Basni, Jodhpur 342005, India",Jodhapur,100.0,place,26.23467,73.02005,IND,RJ,342005
+81,"Jodhapur|Hindustan Petroleum, Madhuban Housing Board Road, Sector 1-Block Cha, Basni, Jodhpur 342005, India",Jodhapur,100.0,place,26.23107,73.02128,IND,RJ,342005
+82,"Jodhapur|Bharat Petroleum Petrol Pump, Service Road, Marudhara Industrial Area Phase 2, Basni, Jodhpur 342005, India",Jodhapur,100.0,place,26.23685,73.01065,IND,RJ,342005
+83,"Jodhapur|HP Petrol Pump, Bhagat Ki Kothi Wistar Yojana, Jodhpur 342008, India",Jodhapur,100.0,place,26.24177,73.01075,IND,RJ,342008
+84,"Jodhapur|Indian Oil Petrol Pump, Bhagat Ki Kothi Wistar Yojana, Jodhpur 342008, India",Jodhapur,100.0,place,26.24463,73.01144,IND,RJ,342008
+85,"Jodhapur|Bharat Petroleum, Prithviraj Nagar, Jhalamand, Jodhpur 342005, India",Jodhapur,100.0,locality,26.22583,73.03753,IND,RJ,342005
+86,"Jodhapur|Indian Oil, Basni, Jodhpur 342005, India",Jodhapur,92.6,place,26.23542,73.01683,IND,RJ,342005
+87,"Jodhapur|Hindustan Petroleum, Jhalamand, Jodhpur 342005, India",Jodhapur,100.0,place,26.21203,73.04211,IND,RJ,342005
+88,"Jodhapur|Bharat Petroleum Petrol Pump, Jhalamand, Jodhpur 342005, India",Jodhapur,100.0,place,26.22029,73.05332,IND,RJ,342005
+89,"Jodhapur|Indian Oil, एनएच-62, Ratanada Extension, Ratanada, Jodhpur 342001, India",Jodhapur,100.0,place,26.27102,73.03618,IND,RJ,342001
+90,"Hyderabad|M/S. Hitech Fuel Station, Reliance Digitals Lane, Kutbiguda, Kachiguda, Hyderabad 500027, India",Hyderabad,100.0,place,17.38731,78.49011,IND,TS,500027
+91,"Hyderabad|Indian Gas Company, NH-65, Koti, Hyderabad 500027, India",Hyderabad,100.0,place,17.38073,78.48566,IND,TS,500027
+92,"Hyderabad|Indian Oil, Rangmahal Road, Gowliguda, Hyderabad 500012, India",Hyderabad,100.0,place,17.38146,78.48277,IND,TS,500012
+93,"Hyderabad|HP Petrol Pump, 3 Maharani Jhansi Road, Hanuman Tekdi, Abids, Hyderabad 500001, India",Hyderabad,100.0,place,17.3824,78.4819,IND,TS,500001
+94,"Hyderabad|Indane Gas Agency, 5-1-513 Mumbai Highway, Hanuman Tekdi, Abids, Hyderabad 500001, India",Hyderabad,100.0,place,17.3825,78.4812,IND,TS,500001
+95,"Hyderabad|HP Petrol Pump, Kachiguda Railway Station Road, Lingampally, Kachiguda, Hyderabad 500027, India",Hyderabad,100.0,place,17.39068,78.49024,IND,TS,500027
+96,"Hyderabad|HP Petrol Pump, 3-1-293, Nimboliadda, Kachiguda, Hyderabad 500027, India",Hyderabad,100.0,place,17.3819,78.493,IND,TS,500027
+97,"Hyderabad|Prime Fuel, 3-2-687, Kutbiguda, Kachiguda, Hyderabad 500027, India",Hyderabad,100.0,place,17.38907,78.4928,IND,TS,500027
+98,"Hyderabad|Deccan Petroleums, Gowliguda, Hyderabad 500012, India",Hyderabad,100.0,place,17.3776,78.48692,IND,TS,500012
+99,"Hyderabad|Bharat Petroleum, Darul Shifa Road, Gowliguda, Hyderabad 500012, India",Hyderabad,100.0,place,17.37759,78.48715,IND,TS,500012
