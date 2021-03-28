@@ -12,5 +12,5 @@ Process development challenge
 4. Quality assessment challenge:
   Define a quality metric
   Design a process for measurement
-  Design a reporting dashboard
+  Design a reporting dashboard.
 5. Present this (powerpoint or alike)
